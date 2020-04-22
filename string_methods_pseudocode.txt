@@ -1,0 +1,22 @@
+1.	Start			
+2.	initialize a string to receive string from user			
+3.				
+4.	Prompt user to enter a sting			
+5.		DO-WHILE		
+6.		prompt user to enter index number		
+7.			IF[index is less than zero]	
+8.				print invalid input
+9.			ELSE IF [index is greater than length of the string]	
+10.				index is larger than length
+11.			ELSE	
+12.				control is false
+13.			END IF	
+14.		END-DO		
+15.				
+16.			IF [index is zero]	
+17.				print the character at index zero
+18.			ELSE 	
+19.				print the substring from zero to the index entered
+20.			END IF	
+21.	close keyboard			
+22.	end			
